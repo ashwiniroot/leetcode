@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashwiniroot/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ashwiniroot/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashwiniroot/leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ashwiniroot/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
