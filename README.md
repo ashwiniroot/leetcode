@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ashwiniroot/leetcode/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ashwiniroot/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
