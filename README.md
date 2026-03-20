@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashwiniroot/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ashwiniroot/leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwiniroot/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ashwiniroot/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ashwiniroot/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ashwiniroot/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwiniroot/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
